@@ -1,0 +1,10 @@
+{
+  "title": "Pre-Departure Checklist",
+  "items": [
+    {"task": "Aircraft Status: ", "status": "Ready for departure"},
+    {"task": "Passenger Boarding Number: ", "status": "128"},
+    {"task": "Fueling: ", "status": "Closed"},
+    {"task": "Door State: ", "status": "Closed"},
+    {"task": "Push Back Time: ", "status": "13:45"}
+  ]
+}
